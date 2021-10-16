@@ -1,0 +1,16 @@
+G:\#Visual Studio projects\C#\Lessons-master\Lessons.Models\bin\Debug\net5.0\Lessons.Models.dll.config
+G:\#Visual Studio projects\C#\Lessons-master\Lessons.Models\bin\Debug\net5.0\Lessons.Models.deps.json
+G:\#Visual Studio projects\C#\Lessons-master\Lessons.Models\bin\Debug\net5.0\Lessons.Models.runtimeconfig.json
+G:\#Visual Studio projects\C#\Lessons-master\Lessons.Models\bin\Debug\net5.0\Lessons.Models.runtimeconfig.dev.json
+G:\#Visual Studio projects\C#\Lessons-master\Lessons.Models\bin\Debug\net5.0\Lessons.Models.dll
+G:\#Visual Studio projects\C#\Lessons-master\Lessons.Models\bin\Debug\net5.0\ref\Lessons.Models.dll
+G:\#Visual Studio projects\C#\Lessons-master\Lessons.Models\bin\Debug\net5.0\Lessons.Models.pdb
+G:\#Visual Studio projects\C#\Lessons-master\Lessons.Models\obj\Debug\net5.0\Lessons.Models.csproj.AssemblyReference.cache
+G:\#Visual Studio projects\C#\Lessons-master\Lessons.Models\obj\Debug\net5.0\Lessons.Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\#Visual Studio projects\C#\Lessons-master\Lessons.Models\obj\Debug\net5.0\Lessons.Models.AssemblyInfoInputs.cache
+G:\#Visual Studio projects\C#\Lessons-master\Lessons.Models\obj\Debug\net5.0\Lessons.Models.AssemblyInfo.cs
+G:\#Visual Studio projects\C#\Lessons-master\Lessons.Models\obj\Debug\net5.0\Lessons.Models.csproj.CoreCompileInputs.cache
+G:\#Visual Studio projects\C#\Lessons-master\Lessons.Models\obj\Debug\net5.0\Lessons.Models.dll
+G:\#Visual Studio projects\C#\Lessons-master\Lessons.Models\obj\Debug\net5.0\ref\Lessons.Models.dll
+G:\#Visual Studio projects\C#\Lessons-master\Lessons.Models\obj\Debug\net5.0\Lessons.Models.pdb
+G:\#Visual Studio projects\C#\Lessons-master\Lessons.Models\obj\Debug\net5.0\Lessons.Models.genruntimeconfig.cache
